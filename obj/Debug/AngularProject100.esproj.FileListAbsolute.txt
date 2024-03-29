@@ -1,0 +1,2 @@
+E:\AngularProject100\AngularProject100\obj\Debug\AngularProject100.esproj.CoreCompileInputs.cache
+C:\AngularProject100\AngularProject100\obj\Debug\AngularProject100.esproj.CoreCompileInputs.cache

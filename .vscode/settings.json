@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4206af61-bb5a-4dcc-9860-c227225f6f6c/resourceGroups/ShopForShop_group/providers/Microsoft.Web/sites/ShopForShop",
+    "appService.deploySubpath": "dist\\angular-project1"
+}
